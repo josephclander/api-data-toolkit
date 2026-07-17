@@ -2,7 +2,7 @@
 
 **Utility scripts to clean and manipulate API response data.**
 
-The scripts were created to automate processes and solve problems required in a professional API data handling work.
+Utility scripts for cleaning, reshaping, and validating API response data — built while working as a Connector Developer at Cyclr, integrating data across HR, CRM, and banking platforms.
 
 ### Contents
 
